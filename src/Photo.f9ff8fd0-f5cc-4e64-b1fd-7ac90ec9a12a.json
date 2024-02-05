@@ -58,6 +58,39 @@
     },
     "children": [
         {
+            "type": "Switch",
+            "translatedName": "Switch",
+            "reactType": "Switch",
+            "properties": {
+                "value": false,
+                "Visible": true,
+                "tintColor": "rgba(176, 176, 176, 100)",
+                "onTintColor": "rgba(208, 215, 231, 100)",
+                "thumbTintColor": "rgba(93, 122, 252, 100)",
+                "offThumbTintColor": "rgba(248, 249, 251, 100)",
+                "Height": 26,
+                "Width": 52,
+                "X": 0,
+                "Y": 305,
+                "RelativeX": 0,
+                "RelativeY": 305,
+                "ResizeMode": "STRETCH",
+                "ParentId": "f9ff8fd0-f5cc-4e64-b1fd-7ac90ec9a12a",
+                "position": "absolute",
+                "edgeOffsets": 305,
+                "style": {
+                    "position": "absolute",
+                    "left": "0%",
+                    "top": "36.370877061469265%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "57a5d798-58ac-4681-a939-d3b3fce73508",
+            "thunkableVersion": 443,
+            "name": "Switch1"
+        },
+        {
             "type": "Button",
             "translatedName": "Button",
             "properties": {
